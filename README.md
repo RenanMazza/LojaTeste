@@ -1,0 +1,2 @@
+# LojaTeste
+teste em python
